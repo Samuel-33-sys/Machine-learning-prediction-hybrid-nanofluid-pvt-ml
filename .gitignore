@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model files (large binaries – uncomment if you don't want to track them)
+# models/*.cbm
+# models/*.pkl
+# models/*.json
+
+# Results & plots
+results/plots/*.png
+results/plots/*.pdf
+results/metrics/*.csv
+
+# Data files (comment out if you want to share data)
+# data/*.csv
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+temp/
