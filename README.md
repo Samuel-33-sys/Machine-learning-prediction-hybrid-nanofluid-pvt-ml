@@ -176,7 +176,5 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ---
 
-## 📧 Contact
-
-**Your Name** – your.email@example.com  
+## 📧 Contact  
 **Project Link:** https://github.com/Samuel-33-sys/hybrid-nanofluid-pvt-ml
